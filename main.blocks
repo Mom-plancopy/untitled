@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="lLP/io;{7J_QsirbG]u(">variable</variable></variables><block type="pxt-on-start" id="kDplnf!OE6X}tLd.Clvo" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="Sy5S*]}#SI@g{|GUCk)P"><field name="VAR" id="lLP/io;{7J_QsirbG]u(">variable</field><value name="VALUE"><shadow type="math_number" id="jeVvDCwAF_-D%YtulluV"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>

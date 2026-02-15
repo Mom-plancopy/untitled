@@ -1,4 +1,4 @@
- 
+THIS IS THE GLITCHIEST ARCADE.MAKECODE.COM 
 
 
 > Open this page at [https://mom-plancopy.github.io/untitled/](https://mom-plancopy.github.io/untitled/)
